@@ -4,10 +4,10 @@ import './item-status-filter.css'
 
 const ItemStatusFilter = () => {
     return(
-        <div className="btn-group">
+        <div className="btn-group item-status-filter">
             <button className="btn btn-info" type="button">All</button>
-            <button className="btn btn-outline-secondry" type="button">Active</button>
-            <button className="btn btn-outline-secondry" type="button">Done</button>
+            <button className="btn btn-outline-secondary" type="button">Active</button>
+            <button className="btn btn-outline-secondary" type="button">Done</button>
         </div>
     )
 }

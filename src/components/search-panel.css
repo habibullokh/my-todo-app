@@ -1,4 +1,9 @@
 .search-panel{
-    margin: 0 500px;
-
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    margin-left: 12px;
+    padding: 0 100px;
+    border-radius: 5px;
+    text-align: left;
 }
